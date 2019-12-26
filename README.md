@@ -9,7 +9,9 @@
 ## 发布页
 
 https://www.bilibili.com/video/av70052735/
-
+https://ryusa.bandcamp.com/album/remix-hybrid-things
+https://music.163.com/song?id=1395041928
+https://music.163.com/song?id=1399275068
 
 
 ## 下载分流
