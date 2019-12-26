@@ -14,7 +14,7 @@ https://www.bilibili.com/video/av70052735/
 
 ## 下载分流
 
-请转到本仓库的 **Release** 页面。
+请转到本仓库的 [**Release**](https://github.com/tsunetakaryu/Steel-Torrent-remix/releases) 页面。
 
 
 
